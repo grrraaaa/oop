@@ -1,0 +1,14 @@
+C:\Users\user1\Desktop\oop\lab1\NUMBER5\bin\Debug\net8.0\NUMBER5.exe
+C:\Users\user1\Desktop\oop\lab1\NUMBER5\bin\Debug\net8.0\NUMBER5.deps.json
+C:\Users\user1\Desktop\oop\lab1\NUMBER5\bin\Debug\net8.0\NUMBER5.runtimeconfig.json
+C:\Users\user1\Desktop\oop\lab1\NUMBER5\bin\Debug\net8.0\NUMBER5.dll
+C:\Users\user1\Desktop\oop\lab1\NUMBER5\bin\Debug\net8.0\NUMBER5.pdb
+C:\Users\user1\Desktop\oop\lab1\NUMBER5\obj\Debug\net8.0\NUMBER5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\oop\lab1\NUMBER5\obj\Debug\net8.0\NUMBER5.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\oop\lab1\NUMBER5\obj\Debug\net8.0\NUMBER5.AssemblyInfo.cs
+C:\Users\user1\Desktop\oop\lab1\NUMBER5\obj\Debug\net8.0\NUMBER5.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\oop\lab1\NUMBER5\obj\Debug\net8.0\NUMBER5.dll
+C:\Users\user1\Desktop\oop\lab1\NUMBER5\obj\Debug\net8.0\refint\NUMBER5.dll
+C:\Users\user1\Desktop\oop\lab1\NUMBER5\obj\Debug\net8.0\NUMBER5.pdb
+C:\Users\user1\Desktop\oop\lab1\NUMBER5\obj\Debug\net8.0\NUMBER5.genruntimeconfig.cache
+C:\Users\user1\Desktop\oop\lab1\NUMBER5\obj\Debug\net8.0\ref\NUMBER5.dll
