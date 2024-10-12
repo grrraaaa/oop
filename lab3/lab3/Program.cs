@@ -1,44 +1,49 @@
-﻿using lab2;
-using System.Security.Cryptography.X509Certificates;
+﻿using lab3;
 public class Program
 {
     public static void Main()
     {
-        var abiturients = new List<Abiturient>
-        {
-            new Abiturient("Ivanov", "Saveli", "NIKITIVICH", "Address 1", "1234567890", new List<double> { 3.0, 2.5, 4.0 }),
-            new Abiturient("Levzikov", "Maksim", "NIKITIVICH", "Address 2", "0987654321", new List<double> { 4.5, 5.0, 4.7 }),
-            new Abiturient("Dehtyaronok", "Andrey", "NIKITIVICH", "Address 4", "1122334455", new List<double> { 2.0, 1.5, 3.0 }),
-            new Abiturient("Dehtyaronok", "Mikolay", "NIKITIVICH", "Address 5", "1144334455", new List<double> { 3.0, 2, 3.0 }),
-            new Abiturient("Zakryzetckji", "Mikolay", "NIKITIVICH", "Address 6", "169853204455", new List<double> { 5.0, 3, 3.0 })
-        };
+        Set setA = new Set();
+        setA <<= "apple";
+        setA <<= "banana";
+        setA <<= "kiwi";
+        setA <<= "grape";
 
-        Console.WriteLine("Abiturients with unsatisfactory grades:");
-        foreach (var abiturient in abiturients.Where(a => a.Grades.Any(g => g < 2.0)))
-        {
-            Console.WriteLine(abiturient);
-            Console.WriteLine($"AVERAGE : {Math.Round(abiturient.Grades.Average(), 2)}");
-            Console.WriteLine($"MAX : {Math.Round(abiturient.GetMaxGrade(),2)}");
-            Console.WriteLine($"MIN : {abiturient.GetMinGrade()}");
-        }
+        Set setB = new Set();
+        setB <<= "banana";
+        setB <<= "kiwi";
+        setB <<= "orange";
 
-        double threshold = 10.0;
-        Console.WriteLine($"\nAbiturients with total grades above {threshold}:");
-        foreach (var abiturient in abiturients.Where(a => a.Grades.Sum() > threshold))
-        {
-            Console.WriteLine(abiturient);
-        }
+        Console.WriteLine("Set A: " + setA);
+        Console.WriteLine("Set B: " + setB);
 
-        Abiturient.ShowClassInfo();
+        Console.WriteLine("Set A < Set B: " + (setA < setB));
+        Console.WriteLine("Set A != Set B: " + (setA != setB));
 
-        Console.WriteLine($"проверяем равны ли 1 и 2 абитуриенты : {abiturients[0].Equals(abiturients[1])}");
-        Console.WriteLine($"проверяем равны ли 1 и 1 абитуриенты : {abiturients[0].Equals(abiturients[0])}");
-        Console.WriteLine($"Hah of first : {abiturients[0].GetHashCode()}");
-        Console.WriteLine($"Hah of sec : {abiturients[1].GetHashCode()}");
+        setA >>= "grape";
+        Console.WriteLine("Set A после удаления 'grape': " + setA);
 
-        var anonymousType = new { LastName = "Messi", FirstName = "Maksim", Grades = new List<double> { 3.5, 4.0, 4.5 } };
-        Console.WriteLine($"\nAnonymous Type: LastName = {anonymousType.LastName}, FirstName = {anonymousType.FirstName}");
+        Set intersection = setA & setB;
+        Console.WriteLine("Пересечение Set A и Set B: " + intersection);
 
-       
+        Console.WriteLine("Самое короткое слово в Set A: " + setA.ShortestWord());
+        Console.WriteLine("Упорядоченные элементы Set A: " + string.Join(", ", setA.SortedElements()));
+
+        Console.WriteLine("Сумма элементов Set A: " + StatisticOperation.Sum(setA));
+        Console.WriteLine("Разница между максимальной и минимальной длиной: " + StatisticOperation.DifferenceMaxMin(setA));
+        Console.WriteLine("Количество элементов в Set A: " + setA.CountElements());
+
+        string sampleText = "Hello world! This is a test.";
+        Console.WriteLine("Количество слов: " + sampleText.WordCount());
+
+        Console.WriteLine("Общее количество символов в Set A: " + setA.TotalCharacterCount());
+
+
+
+
+
+        Console.WriteLine("ПРОВЕРЯЕМ SETA[1] " + setA[1]);
+        setA.getProd();
+
     }
-}
+} 
