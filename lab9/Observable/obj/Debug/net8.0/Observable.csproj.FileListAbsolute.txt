@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\oop\lab9\Observable\bin\Debug\net8.0\Observable.exe
+C:\Users\user1\Desktop\oop\lab9\Observable\bin\Debug\net8.0\Observable.deps.json
+C:\Users\user1\Desktop\oop\lab9\Observable\bin\Debug\net8.0\Observable.runtimeconfig.json
+C:\Users\user1\Desktop\oop\lab9\Observable\bin\Debug\net8.0\Observable.dll
+C:\Users\user1\Desktop\oop\lab9\Observable\bin\Debug\net8.0\Observable.pdb
+C:\Users\user1\Desktop\oop\lab9\Observable\obj\Debug\net8.0\Observable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\oop\lab9\Observable\obj\Debug\net8.0\Observable.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\oop\lab9\Observable\obj\Debug\net8.0\Observable.AssemblyInfo.cs
+C:\Users\user1\Desktop\oop\lab9\Observable\obj\Debug\net8.0\Observable.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\oop\lab9\Observable\obj\Debug\net8.0\Observable.sourcelink.json
+C:\Users\user1\Desktop\oop\lab9\Observable\obj\Debug\net8.0\Observable.dll
+C:\Users\user1\Desktop\oop\lab9\Observable\obj\Debug\net8.0\refint\Observable.dll
+C:\Users\user1\Desktop\oop\lab9\Observable\obj\Debug\net8.0\Observable.pdb
+C:\Users\user1\Desktop\oop\lab9\Observable\obj\Debug\net8.0\Observable.genruntimeconfig.cache
+C:\Users\user1\Desktop\oop\lab9\Observable\obj\Debug\net8.0\ref\Observable.dll

@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\oop\lab9\Universal\bin\Debug\net8.0\Universal.exe
+C:\Users\user1\Desktop\oop\lab9\Universal\bin\Debug\net8.0\Universal.deps.json
+C:\Users\user1\Desktop\oop\lab9\Universal\bin\Debug\net8.0\Universal.runtimeconfig.json
+C:\Users\user1\Desktop\oop\lab9\Universal\bin\Debug\net8.0\Universal.dll
+C:\Users\user1\Desktop\oop\lab9\Universal\bin\Debug\net8.0\Universal.pdb
+C:\Users\user1\Desktop\oop\lab9\Universal\obj\Debug\net8.0\Universal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\oop\lab9\Universal\obj\Debug\net8.0\Universal.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\oop\lab9\Universal\obj\Debug\net8.0\Universal.AssemblyInfo.cs
+C:\Users\user1\Desktop\oop\lab9\Universal\obj\Debug\net8.0\Universal.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\oop\lab9\Universal\obj\Debug\net8.0\Universal.sourcelink.json
+C:\Users\user1\Desktop\oop\lab9\Universal\obj\Debug\net8.0\Universal.dll
+C:\Users\user1\Desktop\oop\lab9\Universal\obj\Debug\net8.0\refint\Universal.dll
+C:\Users\user1\Desktop\oop\lab9\Universal\obj\Debug\net8.0\Universal.pdb
+C:\Users\user1\Desktop\oop\lab9\Universal\obj\Debug\net8.0\Universal.genruntimeconfig.cache
+C:\Users\user1\Desktop\oop\lab9\Universal\obj\Debug\net8.0\ref\Universal.dll
