@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lab4
 {
-    abstract class Device : Product
+    public class Device : Product
     {
         public string Brand { get; set; }
 

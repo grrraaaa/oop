@@ -1,0 +1,12 @@
+D:\Programming\C#\lab15\matrix_mult\bin\Debug\matrix_mult.dll
+D:\Programming\C#\lab15\matrix_mult\bin\Debug\matrix_mult.pdb
+D:\Programming\C#\lab15\matrix_mult\obj\Debug\matrix_mult.csproj.AssemblyReference.cache
+D:\Programming\C#\lab15\matrix_mult\obj\Debug\matrix_mult.csproj.CoreCompileInputs.cache
+D:\Programming\C#\lab15\matrix_mult\obj\Debug\matrix_mult.dll
+D:\Programming\C#\lab15\matrix_mult\obj\Debug\matrix_mult.pdb
+C:\Users\user1\Desktop\oop\lab15\matrix_mult\bin\Debug\matrix_mult.dll
+C:\Users\user1\Desktop\oop\lab15\matrix_mult\bin\Debug\matrix_mult.pdb
+C:\Users\user1\Desktop\oop\lab15\matrix_mult\obj\Debug\matrix_mult.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\oop\lab15\matrix_mult\obj\Debug\matrix_mult.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\oop\lab15\matrix_mult\obj\Debug\matrix_mult.dll
+C:\Users\user1\Desktop\oop\lab15\matrix_mult\obj\Debug\matrix_mult.pdb

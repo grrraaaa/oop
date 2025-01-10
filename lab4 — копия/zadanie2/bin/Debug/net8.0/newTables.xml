@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tables>
+  <Table>
+    <ItemType>Dining Table</ItemType>
+    <Material>Wood</Material>
+  </Table>
+  <Table>
+    <ItemType>Office Chair</ItemType>
+    <Material>Plastic</Material>
+  </Table>
+  <Table>
+    <ItemType>Coffee Table</ItemType>
+    <Material>Glass</Material>
+  </Table>
+</Tables>

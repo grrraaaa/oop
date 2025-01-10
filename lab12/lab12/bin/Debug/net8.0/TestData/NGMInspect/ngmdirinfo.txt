@@ -1,0 +1,7 @@
+TestData\Extracted
+TestData\file1.txt
+TestData\file2.log
+TestData\Files
+TestData\NGMArchive.zip
+TestData\NGMFiles
+TestData\NGMInspect

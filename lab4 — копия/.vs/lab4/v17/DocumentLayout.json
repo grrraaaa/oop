@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCABE165-A837-4909-B138-DBD54B3EF801}|lab4\\lab4.csproj|c:\\users\\user1\\desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCABE165-A837-4909-B138-DBD54B3EF801}|lab4\\lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCABE165-A837-4909-B138-DBD54B3EF801}|lab4\\lab4.csproj|c:\\users\\user1\\desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab4\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCABE165-A837-4909-B138-DBD54B3EF801}|lab4\\lab4.csproj|solutionrelative:lab4\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EF432B-B606-4643-AA71-F8D782F6AEF6}|zadanie2\\zadanie2.csproj|c:\\users\\user1\\desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\zadanie2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EF432B-B606-4643-AA71-F8D782F6AEF6}|zadanie2\\zadanie2.csproj|solutionrelative:zadanie2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCABE165-A837-4909-B138-DBD54B3EF801}|lab4\\lab4.csproj|c:\\users\\user1\\desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab4\\jsonserializer .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCABE165-A837-4909-B138-DBD54B3EF801}|lab4\\lab4.csproj|solutionrelative:lab4\\jsonserializer .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCABE165-A837-4909-B138-DBD54B3EF801}|lab4\\lab4.csproj|c:\\users\\user1\\desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab4\\xmlserializer .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCABE165-A837-4909-B138-DBD54B3EF801}|lab4\\lab4.csproj|solutionrelative:lab4\\xmlserializer .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCABE165-A837-4909-B138-DBD54B3EF801}|lab4\\lab4.csproj|c:\\users\\user1\\desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab4\\iserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCABE165-A837-4909-B138-DBD54B3EF801}|lab4\\lab4.csproj|solutionrelative:lab4\\iserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISerializer.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab4\\ISerializer.cs",
+              "RelativeDocumentMoniker": "lab4\\ISerializer.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab4\\ISerializer.cs",
+              "RelativeToolTip": "lab4\\ISerializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:42:08.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab4\\Device.cs",
+              "RelativeDocumentMoniker": "lab4\\Device.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab4\\Device.cs",
+              "RelativeToolTip": "lab4\\Device.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:59:00.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\zadanie2\\Program.cs",
+              "RelativeDocumentMoniker": "zadanie2\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\zadanie2\\Program.cs",
+              "RelativeToolTip": "zadanie2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:52:32.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab4\\Program.cs",
+              "RelativeDocumentMoniker": "lab4\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab4\\Program.cs",
+              "RelativeToolTip": "lab4\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:42:50.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonSerializer .cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab4\\JsonSerializer .cs",
+              "RelativeDocumentMoniker": "lab4\\JsonSerializer .cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab4\\JsonSerializer .cs",
+              "RelativeToolTip": "lab4\\JsonSerializer .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:23:57.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XmlSerializer .cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab4\\XmlSerializer .cs",
+              "RelativeDocumentMoniker": "lab4\\XmlSerializer .cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\oop\\lab4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab4\\XmlSerializer .cs",
+              "RelativeToolTip": "lab4\\XmlSerializer .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:42:20.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
